@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 自打印文字 -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=500&height=100&lines=Welcome+to+my+GitHub+profile;Found+a+repository+you+like%3F;+Feel+free+to+give+it+a+star!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+</p>
+
+<!-- 活动图 -->
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SweerItTer&theme=rogue&custom_title=Activity%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

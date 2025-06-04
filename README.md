@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <h1>你好，我是 SweerItTer 👋</h1>
   <p><em>嵌入式视觉、图像处理、多线程调度 和 系统优化 爱好者</em></p>

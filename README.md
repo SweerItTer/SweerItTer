@@ -38,8 +38,9 @@
 | 项目 | 简介 | 技术栈 | 公开状态 |
 |------|------|--------|--------|
 | [🎬 BilibiliAnimeDownloader](https://github.com/SweerItTer/BilibiliAnimeDownloader/blob/UI-version/README.md) | 基于 PyQt5 的 BiliBili 动画多线程下载器 | PyQt + 爬虫 | 是 |
-| [🤖 FaceRecognition](https://github.com/SweerItTer/facerecognition/blob/master/README.md) | 基于 Qt 的人脸识别 PC 上位机程序 | Qt + Yolov8 + FaceNet + Mysql | 是 |
-| [🧬 EdgeVision](https://github.com/SweerItTer/EdgeVision/blob/main/README.md) | 异常血细胞识别模型训练，使用 ALL-IDB 数据集 | V4L2 + RGA + YOLOv5 + OpenGL ES + HDMI | 否 |
+| [🤖 FaceRecognition](https://github.com/SweerItTer/facerecognition) | 基于 Qt 的人脸识别 PC 上位机程序 | Qt + Yolov8 + FaceNet + Mysql | 是 |
+| [📷 MVS_Subdevelop](https://github.com/SweerItTer/MVS_Subdevelop) | 基于 MVS SDK 的工业相机控制套件，支持多厂商相机统一接入、实时图像采集与参数可视化配置 | MVS SDK + Qt + CMake | 是 |
+| [🧬 EdgeVision](https://github.com/SweerItTer/EdgeVision) | 低延迟零拷贝链路 | V4L2 + RGA + RKNN + OpenGL ES + QT5 + DRM + HDMI | 否 |
 
 ---
 

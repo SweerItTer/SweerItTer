@@ -16,45 +16,64 @@
 
 ---
 
-## 了解 & 计划学习
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+## 🌱 计划深入
 
-</div>
-
----
-
-### 🧩 我的技术标签：
-
-- 🎯 **编程语言：** C++14 / Python / Shell
-- ⚙️ **平台环境：** RK3568、RV1126、WSL2、Buildroot
-- 🧠 **重点方向：** 嵌入式图像处理、多线程编程、Qt 框架
-- 🎥 **工具链：** YOLOv5 / OpenCV / Qt / V4L2 / RGA / OpenGL
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WeChat MiniProgram](https://img.shields.io/badge/WeChat%20MiniProgram-07C160?style=flat-square&logo=wechat&logoColor=white)
+![HTTP / REST](https://img.shields.io/badge/HTTP%20%2F%20REST-005571?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
-### 📌 项目预览
+## 📌 项目预览
 
 | 项目 | 简介 | 技术栈 | 公开状态 |
 |------|------|--------|--------|
 | [🎬 BilibiliAnimeDownloader](https://github.com/SweerItTer/BilibiliAnimeDownloader/blob/UI-version/README.md) | 基于 PyQt5 的 BiliBili 动画多线程下载器 | PyQt + 爬虫 | 是 |
 | [🤖 FaceRecognition](https://github.com/SweerItTer/facerecognition) | 基于 Qt 的人脸识别 PC 上位机程序 | Qt + Yolov8 + FaceNet + Mysql | 是 |
 | [📷 MVS_Subdevelop](https://github.com/SweerItTer/MVS_Subdevelop) | 基于 MVS SDK 的工业相机控制套件，支持多厂商相机统一接入、实时图像采集与参数可视化配置 | MVS SDK + Qt + CMake | 是 |
-| [🧬 EdgeVision](https://github.com/SweerItTer/EdgeVision) | 低延迟零拷贝链路 | V4L2 + RGA + RKNN + OpenGL ES + QT5 + DRM + HDMI | 否 |
+| [🧬 utilsCore](https://github.com/SweerItTer/utilsCore) | DAMBUF 数据链路核心 + 通用模块库 | V4L2 + RGA + DRM + MPP + udev + epoll | 是 |
+| [🧬 EdgeVision](https://github.com/SweerItTer/EdgeVision-app) | 低延迟零拷贝链路 | utilsCore + RKNN + OpenGL ES + QT5 + HDMI | 否 |
+
+---
+</div>
+
+
+## 🛠 当前进行中
+
+### 📡 Project A: WiFi Stream + TCP Control Service
+- 嵌入式设备侧 **TCP Server 设计**
+  - 指令驱动的状态控制（start / stop / record / capture）
+  - 独立进程与生命周期管理
+- WiFi 视频推流链路构建
+  - Headless / Display 模式下的链路切换
+  - 网络抖动与延迟行为分析
 
 ---
 
-### 🛠 正在进行：
-
-- RK3568 + V4L2 + RGA 零拷贝图像采集链优化  
-- 使用 Buildroot 分析 rootfs 兼容问题  
-- 图像流解码与显示线程的稳定性调优
+### 📱 Project B: WeChat Mini Program (Learning Project)
+- 基于 **Vue3 + Node.js + Java + MySQL** 的简单前后端项目
+- 功能聚焦：
+  - 基础查表逻辑
+  - 前后端接口联调
+  - 完整开发流程理解（而非功能复杂度）
+- 目标：
+  - 理解 Web / 小程序工程化流程
+  - 为后续设备管理界面做技术储备
 
 ---
 
-### 📬 联系我 / 交流分享：
+## 📬 交流与讨论
 
-如果你正在做嵌入式视觉、视频流系统、AI模型部署或底层优化，欢迎互相学习、一起研究！
+如果你也在做：
+
+- 嵌入式视觉系统  
+- 视频流、显示管线或 AI 推理部署  
+- 底层性能分析与系统调优  
+
+欢迎交流，互相学习，一起踩坑。
 
 ---
 
